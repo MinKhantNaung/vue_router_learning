@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Marvel",
+        "price": 1000000
+    },
+    {
+        "id": 2,
+        "name": "Honda",
+        "price": 1200000
+    },
+    {
+        "id": 3,
+        "name": "Lara",
+        "price": 5000000
+    },
+    {
+        "id": 4,
+        "name": "Nuxt",
+        "price": 2000000
+    }
+]
