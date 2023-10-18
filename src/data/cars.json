@@ -2,21 +2,37 @@
     {
         "id": 1,
         "name": "Marvel",
-        "price": 1000000
+        "price": 1000000,
+        "contact": {
+            "dealer": "Su Su",
+            "number": "222 222 222"
+        }
     },
     {
         "id": 2,
         "name": "Honda",
-        "price": 1200000
+        "price": 1200000,
+        "contact": {
+            "dealer": "Sam",
+            "number": "333 333 333"
+        }
     },
     {
         "id": 3,
         "name": "Lara",
-        "price": 5000000
+        "price": 5000000,
+        "contact": {
+            "dealer": "Mr.Min",
+            "number": "258 111 888"
+        }
     },
     {
         "id": 4,
         "name": "Nuxt",
-        "price": 2000000
+        "price": 2000000,
+        "contact": {
+            "dealer": "Win",
+            "number": "444 444 444"
+        }
     }
 ]
